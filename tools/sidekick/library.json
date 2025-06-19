@@ -1,0 +1,17 @@
+[
+  {
+    "path": "/blocks/hero",
+    "title": "Hero",
+    "description": "Ana görsel bloğu"
+  },
+  {
+    "path": "/blocks/cards",
+    "title": "Cards",
+    "description": "Kart görünümünde içerik bloğu"
+  },
+  {
+    "path": "/blocks/section-metadata",
+    "title": "Section Metadata",
+    "description": "Bölüm başlığı ve tanımı içeren alan"
+  }
+]
